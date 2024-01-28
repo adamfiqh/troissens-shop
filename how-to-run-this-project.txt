@@ -1,3 +1,0 @@
-1. buka terminal ( cmd ) dan jalankan perintah npm install 
-2. jalankan perinah npm run dev
-3. copy link localhost dan paste ke browser yg anda pakai
